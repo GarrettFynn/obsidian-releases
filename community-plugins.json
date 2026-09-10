@@ -52274,5 +52274,12 @@
     "author": "Hamirdreza Zamanian",
     "description": "Make GFM-style Markdown heading links previewable and easy to create. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zmn-hamid/markdown-heading-links"
+  },
+  {
+    "id": "universal-ui-translator",
+    "name": "Universal UI Translator",
+    "author": "GarrettFynn",
+    "description": "Translate Obsidian core and community plugin UI with your own translation API.",
+    "repo": "GarrettFynn/obsidian-universal-ui-translator"
   }
 ]
