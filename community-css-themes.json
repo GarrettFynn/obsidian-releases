@@ -144,6 +144,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "MuYun",
+    "author": "GarrettFynn",
+    "description": "A snug theme for long-form reading, fast writing & quick navigation. 舒适阅读、高效写作、快速定位。",
+    "repo": "GarrettFynn/obsidian-muyun",
+    "screenshot": "screenshot.png"
+  },
+  {
     "name": "Notation",
     "author": "deathau",
     "repo": "deathau/Notation-for-Obsidian",
